@@ -16,3 +16,7 @@ export const HEALTH_BAR_ASSET_KEYS = Object.freeze({
   RIGHT_CAP: "RIGHT_CAP",
   MIDDLE_CAP: "MIDDLE_CAP",
 });
+
+export const UI_ASSET_KEYS = Object.freeze({
+  CURSOR: "CURSOR",
+});
